@@ -1,0 +1,9 @@
+[package]
+name = "replication-toy"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+bytes.workspace = true
+futures.workspace = true

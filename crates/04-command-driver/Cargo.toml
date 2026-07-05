@@ -1,0 +1,9 @@
+[package]
+name = "command-driver"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+bytes.workspace = true
+futures.workspace = true
